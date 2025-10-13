@@ -17,5 +17,4 @@ int main(){
 	  } else{
 	  	 	printf("Id does not exists in array");
 	  }
-}
-8
+}
