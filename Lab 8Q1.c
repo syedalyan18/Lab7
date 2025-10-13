@@ -15,7 +15,7 @@ int main(){
 	  if(found==1){
 	  	printf("Id exists in array");
 	  } else{
-	  	 	printf("Id exists in array");
+	  	 	printf("Id does not exists in array");
 	  }
 }
 8
